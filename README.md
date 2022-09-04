@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Vladimir
 
 ## I'm a beginner data scientist
--  🔭 Currently I work at the Scientific Institute of Oil and Gas
+-  🔭 Currently I work at the Scientific Institute of Oil and Gas. Creating a digital oilfield twin
 -  🚀 I like to explore the data, there is a lot of interesting things hidden in it
 -  💬 I am constantly learning new things
 -  🏔 I like to travel and photography
